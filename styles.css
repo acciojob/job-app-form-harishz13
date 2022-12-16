@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+body{
+    background-color: black;
+    color: whitesmoke;
+    position: relative;
+    top: 10vw;
+    left: 25vw;
+}
+form div{
+    margin: 15px;
+    padding: 5px;
+    font-size: 20px;
+}
+h1{
+    margin: 15px;
+}
